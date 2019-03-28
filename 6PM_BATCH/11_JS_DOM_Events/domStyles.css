@@ -1,0 +1,10 @@
+section{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+button{
+    font-size: 25px;
+    padding: 10px 25px;
+}
